@@ -3,15 +3,16 @@
 
 ///Edit Under This only
 
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyB-EgwhAnOk19BzNuTEIbizZfKcPor4SDE",
-  authDomain: "phishing-testing.firebaseapp.com",
-  databaseURL: "https://phishing-testing.firebaseio.com",
-  projectId: "phishing-testing",
-  storageBucket: "phishing-testing.appspot.com",
-  messagingSenderId: "578971318980",
-  appId: "1:578971318980:web:9edfd0b5b4cc0eebaa6791",
-  measurementId: "G-0SCN4R4PHS"
+  apiKey: "AIzaSyCaiv-av5qj2Ix-p18SI-relsUcyfpqwZ0",
+  authDomain: "test-a9475.firebaseapp.com",
+  databaseURL: "https://test-a9475-default-rtdb.firebaseio.com",
+  projectId: "test-a9475",
+  storageBucket: "test-a9475.appspot.com",
+  messagingSenderId: "272589192020",
+  appId: "1:272589192020:web:199f4deb4b575a47fda6c1",
+  measurementId: "G-6NFEJD80DL"
 };
 
      
